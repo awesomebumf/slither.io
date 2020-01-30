@@ -1,2 +1,2 @@
 # slither.io
-code snippet used in slither.io
+code snippets used in slither.io
